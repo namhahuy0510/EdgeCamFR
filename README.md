@@ -34,3 +34,8 @@
 <p align="center">
   <img width="600" height="400" alt="Kết quả nhận diện khi không có khuôn mặt - Unknown" src="https://github.com/user-attachments/assets/2e85c749-3390-4649-8e70-19a04dbedae2" />
 </p>
+
+## Sơ đồ minh họa cách hoạt động 
+<p align="center">
+<img width="1278" height="553" alt="image" src="https://github.com/user-attachments/assets/a7a4ba54-3273-4f26-ba22-4f24b5966a21" />
+</p>
